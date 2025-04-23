@@ -35,7 +35,6 @@ This system predicts future asset allocation weights for a portfolio of tickers 
 | File | Description |
 |------|-------------|
 | `tests/NOOPTION.py` | Version of model that omits options data (uses prices only) |
-| `tests/optionstest.py` | Generates and saves sliding window datasets |
 | `tests/ticker_test.py` | Checks for problematic or inactive tickers from ORATS |
 
 ## Data Sources
