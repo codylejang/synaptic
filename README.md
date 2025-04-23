@@ -1,7 +1,7 @@
 
 # Dynamic Portfolio Optimization with Sliding Windows and Backtesting
 
-This project implements a dynamic portfolio allocation strategy using machine learning and backtesting. It combines predictive modeling, optimal portfolio construction with PyPortfolioOpt, and comparative analysis with traditional investment strategies like equal weighting and S&P 500 buy-and-hold.
+This sample of a data pipeline I developed at Synaptic. Note: THIS IS NOT THE FINAL PUBLISHED PROJECT, FOR PRIVACY REASONS. It implements a dynamic portfolio allocation strategy using machine learning and backtesting. The project combines predictive modeling, optimal portfolio construction with PyPortfolioOpt, and comparative analysis with traditional investment strategies like equal weighting and S&P 500 buy-and-hold.
 
 ## Project Overview
 
